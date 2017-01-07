@@ -1,0 +1,30 @@
+
+.box{
+	padding: 15px;
+	height: 330;
+	width: 270;
+	border: solid 1px;
+	color:  #12324;
+	text-align: center;
+}
+
+.subtotal{
+	text-align: left;
+}
+
+.tip{
+	text-align: left;
+}
+
+.lastbox{
+	
+	vertical-align: middle;
+	padding: 8px;
+	height: 60px;
+	width: 250px;
+	border: solid 1px;
+	color:  #0000043;
+	text-align: center;
+
+}
+
